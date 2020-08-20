@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1597671055 source:c:\users\dell\desktop\g52\c_projects\functions\includingstring\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1597665841 source:c:\users\dell\desktop\g52\c_projects\functions\includingstring\strcat.c
+	"strcat.h"
+
+1597665847 c:\users\dell\desktop\g52\c_projects\functions\includingstring\strcat.h
+
+1597665962 source:c:\users\dell\desktop\g52\c_projects\functions\includingstring\strcmp.c
+	"strcmp.h"
+
+1597667635 source:c:\users\dell\desktop\g52\c_projects\functions\includingstring\strcpy.c
+	"strcpy.h"
+
+1597668265 source:c:\users\dell\desktop\g52\c_projects\functions\includingstring\strlen.c
+	"strlen.h"
+
+1597670087 source:c:\users\dell\desktop\g52\c_projects\functions\includingstring\strncat.c
+	"strncat.h"
+
+1597670153 source:c:\users\dell\desktop\g52\c_projects\functions\includingstring\strncmp.c
+	"strcmp.h"
+
+1597670188 source:c:\users\dell\desktop\g52\c_projects\functions\includingstring\strncpy.c
+	"strncpy.h"
+
+1597670224 source:c:\users\dell\desktop\g52\c_projects\functions\includingstring\strrchr.c
+	"strrchr.h"
+
+1597665870 source:c:\users\dell\desktop\g52\c_projects\functions\includingstring\strchr.c
+	"strchr.h"
+
+1597665870 c:\users\dell\desktop\g52\c_projects\functions\includingstring\strchr.h
+
+1597665994 c:\users\dell\desktop\g52\c_projects\functions\includingstring\strcmp.h
+
+1597667635 c:\users\dell\desktop\g52\c_projects\functions\includingstring\strcpy.h
+
+1597668259 c:\users\dell\desktop\g52\c_projects\functions\includingstring\strlen.h
+
+1597670153 c:\users\dell\desktop\g52\c_projects\functions\includingstring\strncat.h
+
+1597670187 c:\users\dell\desktop\g52\c_projects\functions\includingstring\strncpy.h
+
+1597670257 c:\users\dell\desktop\g52\c_projects\functions\includingstring\strrchr.h
+
